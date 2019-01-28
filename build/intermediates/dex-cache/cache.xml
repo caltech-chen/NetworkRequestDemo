@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\xuehu_aotm\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="G:\AdroidProjects\Android\NetworkRequestDemo-master\app\build\intermediates\pre-dexed\debug\converter-gson-2.1.0_8cf8a33014391b46f6e350336e7372a122187ca2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xuehu_aotm\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="G:\AdroidProjects\Android\NetworkRequestDemo-master\app\build\intermediates\pre-dexed\debug\okio-1.8.0_358e7c225ed9c70346039f1806e8c89432b9d8e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xuehu_aotm\.android\build-cache\bb1f6f5e29afd8cc1788e596bd1663557ee0b5bf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="G:\AdroidProjects\Android\NetworkRequestDemo-master\app\build\intermediates\pre-dexed\debug\classes_58f27e0b4cbbd3899c027b516979b48ffe2506f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xuehu_aotm\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.6\2586312cd2b8a511e4c6236736f5a039fc0f2273\rxjava-1.1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="G:\AdroidProjects\Android\NetworkRequestDemo-master\app\build\intermediates\pre-dexed\debug\rxjava-1.1.6_8c2eab9178872e4f7d2fa43cd8d982e8aa7eaec7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xuehu_aotm\.android\build-cache\998c43f9540ac9cb4837ac4d2ddc29e03014c668\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="G:\AdroidProjects\Android\NetworkRequestDemo-master\app\build\intermediates\pre-dexed\debug\classes_ca66f78b1483f347bfa90ba26b77aed9ca774880.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xuehu_aotm\.android\build-cache\c9c451c116f064282a695d0ffc13644a26c4416e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="G:\AdroidProjects\Android\NetworkRequestDemo-master\app\build\intermediates\pre-dexed\debug\classes_9f4842f967f68f0de5a7a04e31b10541fb6e3aba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xuehu_aotm\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="G:\AdroidProjects\Android\NetworkRequestDemo-master\app\build\intermediates\pre-dexed\debug\gson-2.7_f8bde66391ef272e235dac8a3f80e4958a5868f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xuehu_aotm\.android\build-cache\9d5eebeb688e36f1e9b7e8d1a641bc0ccaa1d0e8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="G:\AdroidProjects\Android\NetworkRequestDemo-master\app\build\intermediates\pre-dexed\debug\classes_5b70d603672e9d6bf492ad2b51459a3ce79eb323.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xuehu_aotm\.android\build-cache\524d2b9243a18cd9b1abf851ed1e3a8ecc5b3bd1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="G:\AdroidProjects\Android\NetworkRequestDemo-master\app\build\intermediates\pre-dexed\debug\classes_1d11bce6ee5be7124df3d132b62d8b56010ed113.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xuehu_aotm\.android\build-cache\0e0e59a958e77e6a453ec5dfec670c5d4b9b32bb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="G:\AdroidProjects\Android\NetworkRequestDemo-master\app\build\intermediates\pre-dexed\debug\classes_15b8000597131566da0e7d5de0cf7403a35450ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xuehu_aotm\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.1\19047bdb6a4fc00a44124f64ca98e88fc204e7e3\okhttp-3.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="G:\AdroidProjects\Android\NetworkRequestDemo-master\app\build\intermediates\pre-dexed\debug\okhttp-3.3.1_7edaaaf6a119d9f8ab0b63400690eaf6b2be0f40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xuehu_aotm\.android\build-cache\5b18927d1a08c608e2ebe24ba8665dff945b387c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="G:\AdroidProjects\Android\NetworkRequestDemo-master\app\build\intermediates\pre-dexed\debug\classes_1d8365e99a9882197bbe01994562cbf931499c9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xuehu_aotm\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="G:\AdroidProjects\Android\NetworkRequestDemo-master\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_ce439eea2f8a701dc4428e6af09646c5f76ba2ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xuehu_aotm\.android\build-cache\cbedc05028bf54299b2fa9bd637a11aad9ae191c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="G:\AdroidProjects\Android\NetworkRequestDemo-master\app\build\intermediates\pre-dexed\debug\classes_ac2923386d775470b3109015760a4752bd8ca634.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AdroidProjects\Android\NetworkRequestDemo-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1517e524a12f3c83afd849dd3f680aeaac014b4c">
+        <dex dex="G:\AdroidProjects\Android\NetworkRequestDemo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_615c09ebed134d44781c7bf762e7c696466f459f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xuehu_aotm\.android\build-cache\6487185e2c77af060b19ddce923af4050e58974c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="G:\AdroidProjects\Android\NetworkRequestDemo-master\app\build\intermediates\pre-dexed\debug\classes_7e330cdfb34277df7aa52d9219eeb737175da177.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xuehu_aotm\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.19\a8f23f65fc1e522ee4a1a697ee569901a46741fa\library-1.0.19.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="G:\AdroidProjects\Android\NetworkRequestDemo-master\app\build\intermediates\pre-dexed\debug\library-1.0.19_17d7f6267f4cb9b0d01572f19389ed3aeb99d0b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xuehu_aotm\.android\build-cache\449dcccf41dd92e3e45a9663768a8f7544118906\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="G:\AdroidProjects\Android\NetworkRequestDemo-master\app\build\intermediates\pre-dexed\debug\classes_67bae5d08829efa03dc6a574f5134b9fd37f67c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xuehu_aotm\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="G:\AdroidProjects\Android\NetworkRequestDemo-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.0_d9740a68932e210d8a8e975b56beede00b9c2cdc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AdroidProjects\Android\NetworkRequestDemo-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="G:\AdroidProjects\Android\NetworkRequestDemo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b5b08c6b58095cc46a4a25fac1f75f9121b74ddd\classes.dex" />
+    </item>
+
+</items>
